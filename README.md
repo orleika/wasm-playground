@@ -6,7 +6,7 @@
 > WebAssembly playground
 
 Try below page.  
-https://orleika.github.io/wasm-playground/
+https://orleika.github.io/wasm-playground/index.html
 
 ## Compile
 
