@@ -3,7 +3,9 @@
  * https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Quicksort#C
  */
 
+#ifdef __EMSCRIPTEN__
 #include <emscripten/emscripten.h>
+#endif
 
  #ifdef __cplusplus
  extern "C" {
